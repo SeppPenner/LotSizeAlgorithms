@@ -1,7 +1,7 @@
 LotSizeAlgorithms
 =================
 
-Multiple algorithms for lot sizing problems inn Java.
+Multiple algorithms for lot sizing problems in Java.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/00pff9i752e7430a?svg=true)](https://ci.appveyor.com/project/SeppPenner/lotsizealgorithms)
 
