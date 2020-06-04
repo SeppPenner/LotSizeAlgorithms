@@ -12,4 +12,4 @@ Multiple algorithms for lot sizing problems in Java.
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-04-22)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/LotSizeAlgorithms/blob/master/Changelog.md).
